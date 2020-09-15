@@ -88,7 +88,7 @@ export class _Blank extends React.Component {
         }}
       />
       <Slider
-        value={50}
+        value={25}
         minimumValue={0}
         maximumValue={100}
         step={1}
@@ -117,7 +117,7 @@ export class _Blank extends React.Component {
         }}
       />
       <Slider
-        value={50}
+        value={65}
         minimumValue={0}
         maximumValue={100}
         step={1}
